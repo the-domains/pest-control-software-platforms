@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.razorsync.com/'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,20 +16,21 @@ keywords:
   - software
   - schedule
 description: 'Streamline your service business. Manage employees, jobs & customers from your desktop, tablet or phone. Try free for 30 days. No credit card required!'
-datePublished: '2015-10-28T19:29:58.827Z'
-dateModified: '2015-10-28T19:29:47.523Z'
+datePublished: '2015-10-28T19:35:26.360Z'
+dateModified: '2015-10-28T19:34:47.802Z'
 author: []
 related: []
 app_links: []
 title: 'RazorSync: Field Service Software & Mobile App'
+sourcePath: _posts/2015-10-28-razorsync-field-service-software-and-mobile-app.md
+published: true
 authors: []
 publisher:
   name: RazorSync
   domain: www.razorsync.com
   url: 'http://www.razorsync.com'
   favicon: 'http://www.razorsync.com/wp-content/themes/razorsync/favicon.ico'
-sourcePath: _posts/2015-10-28-razorsync-field-service-software-and-mobile-app.md
-published: true
+url: razorsync-field-service-software-and-mobile-app/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
