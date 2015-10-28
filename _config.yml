@@ -1,6 +1,6 @@
 name: Pest Control Software Platforms
 favicon: null
-layout_spectrum: 0.6183066831436008
+layout_spectrum: 0.86585
 typography_spectrum: 0.3675408950075507
 title: Pest Control Software Platforms
 cta:
@@ -16,8 +16,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.5343366649467498
+  brandColors:
+    - '#ffffff'
+    - '#278222'
+    - '#d5f1d6'
+    - '#93b18c'
+    - '#5f9158'
+  brandStrength: 0.375
   lightness: 0.619683968834579
   saturation: 0.7553432052955031
   rhythmicContrast: 0.41261407546699047
